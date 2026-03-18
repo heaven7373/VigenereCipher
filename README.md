@@ -11,5 +11,3 @@ A Java AWT based GUI application that performs encryption and decryption using m
 javac MultiCipherAWT.java
 java MultiCipherAWT
 
-## Submitted As
-College Java Mini Project
